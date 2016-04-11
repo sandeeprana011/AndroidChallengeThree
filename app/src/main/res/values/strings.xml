@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidChallengeThree</string>
+    <string name="google_app_id">androidchallenge3</string>
+    <string name="title_activity_map">Map</string>
+</resources>
